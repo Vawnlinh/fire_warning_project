@@ -1,0 +1,58 @@
+.App {
+    text-align: center;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+  }
+  
+  h1 {
+    color: #333;
+  }
+  
+  .alerts-section {
+    margin-bottom: 40px;
+  }
+  
+  .alerts-section h2 {
+    font-size: 1.5em;
+    margin-bottom: 10px;
+  }
+  
+  .alerts-section ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .alert {
+    background-color: #ffcccc;
+    border: 1px solid #ff6666;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 5px 0;
+    white-space: pre-wrap;
+    text-align: left;
+  }
+  
+  .item-card {
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 20px;
+    margin: 20px auto;
+    max-width: 600px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  .item-card h2 {
+    font-size: 1.5em;
+    margin-bottom: 10px;
+  }
+  
+  .item-card p {
+    font-size: 1.1em;
+    margin: 5px 0;
+  }
+  
+  .item-card h3 {
+    font-size: 1.2em;
+    margin-top: 20px;
+    margin-bottom: 10px;
+  }
